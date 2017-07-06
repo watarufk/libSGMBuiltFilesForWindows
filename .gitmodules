@@ -1,3 +1,6 @@
 [submodule "libSGM"]
 	path = libSGM
 	url = https://github.com/kishimoto-exvision/libSGM.git
+[submodule "OpenCVBuiltFilesForWindows"]
+	path = OpenCVBuiltFilesForWindows
+	url = https://github.com/kishimoto-exvision/OpenCVBuiltFilesForWindows.git
