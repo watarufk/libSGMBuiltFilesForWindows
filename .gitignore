@@ -288,3 +288,4 @@ __pycache__/
 *.xsd.cs
 
 /libSGM_build_x64
+/libSGM_build_x64_zedsdk
