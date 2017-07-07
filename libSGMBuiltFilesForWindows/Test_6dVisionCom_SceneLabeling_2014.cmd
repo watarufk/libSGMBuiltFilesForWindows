@@ -1,1 +1,5 @@
 "..\libSGM_build_x64\sample\movie\Release\stereo_movie.exe" "D:\Data\libSGM\2014_imgleft_all\test_1\imgleft\imgleft00000%%04d.pgm" "D:\Data\libSGM\2014_imgright_all\test_1\imgright\imgright00000%%04d.pgm" 64 1000
+"..\libSGM_build_x64\sample\movie\Release\stereo_movie.exe" "D:\Data\libSGM\2014_imgleft_all\test_2\imgleft\imgleft00000%%04d.pgm" "D:\Data\libSGM\2014_imgright_all\test_2\imgright\imgright00000%%04d.pgm" 64 1000
+"..\libSGM_build_x64\sample\movie\Release\stereo_movie.exe" "D:\Data\libSGM\2014_imgleft_all\train_1\imgleft\imgleft00000%%04d.pgm" "D:\Data\libSGM\2014_imgright_all\train_1\imgright\imgright00000%%04d.pgm" 64 1000
+"..\libSGM_build_x64\sample\movie\Release\stereo_movie.exe" "D:\Data\libSGM\2014_imgleft_all\train_2\imgleft\imgleft00000%%04d.pgm" "D:\Data\libSGM\2014_imgright_all\train_2\imgright\imgright00000%%04d.pgm" 64 1000
+"..\libSGM_build_x64\sample\movie\Release\stereo_movie.exe" "D:\Data\libSGM\2014_imgleft_all\train_3\imgleft\imgleft00000%%04d.pgm" "D:\Data\libSGM\2014_imgright_all\train_3\imgright\imgright00000%%04d.pgm" 64 1000
